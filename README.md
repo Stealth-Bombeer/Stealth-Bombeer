@@ -2,8 +2,6 @@
 <div align="center"><strong > Undergrad at,VJTI</strong></div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stealth-bombeer&label=Profile%20views&color=0e75b6&style=flat" alt="stealth-bombeer" /> </p>
 
-<img align="right" alt="Coding" width="400" src="https://i2.wp.com/i.giphy.com/media/QHE5gWI0QjqF2/giphy-downsized.gif?w=770&ssl=1">
-
 - 🔭 I’m currently exploring opportunities as a *Web-Developer*
 
 - 📫 How to reach me *goudanikunal3@gmail.com*
